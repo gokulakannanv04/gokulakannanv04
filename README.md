@@ -41,13 +41,5 @@
 
 
 
-## 🌐 Contact Me On
 
-- **Website:** [gokulakannan04](https://gokulakannan.televein.in/)
-- **LinkedIn:** [gokulakannanv04](https://www.linkedin.com/in/gokula-kannan-v/)
-- **Email:** <a href="mailto:gokulakannanv04@gmail.com">gokulakannanv04@gmail.com</a>
-
-<!--
-
--->
 
