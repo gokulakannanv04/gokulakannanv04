@@ -24,7 +24,7 @@
 
 ## 💻 Coding Profile
 
-- **LeetCode:** [gokulakannanv04](https://leetcode.com/gokulakannanv04/)
+- **LeetCode:** [gokulakannanv04](https://leetcode.com/u/gokulakannanv04/)
 
 
 
