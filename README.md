@@ -14,7 +14,7 @@
 
 <br>
 <a href="https://leetcode.com/gokulakannan04">
-    <img src="https://leetcard.jacoblin.cool/gokulakannan04?=dark&font=Goldman&ext=activityy"></img>
+    <img src="https://leetcard.jacoblin.cool/gokulakannan04?=dark&font=Goldman&ext=heatmap"></img>
 <a>
 
 <!------------------------------------------>
