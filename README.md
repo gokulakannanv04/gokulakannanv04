@@ -13,7 +13,7 @@
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="40px"></img>
 
 <br>
-<a href="https://leetcode.com/u/gokulakannanv04">
+<a href="https://leetcode.com/gokulakannan04">
     <img src="https://leetcard.jacoblin.cool/gokulakannan04?=dark&font=Goldman&ext=activityy"></img>
 <a>
 
@@ -24,7 +24,7 @@
 
 ## 💻 Coding Profile
 
-- **LeetCode:** [gokulakannanv04](https://leetcode.com/u/gokulakannanv04/)
+- **LeetCode:** [gokulakannanv04](https://leetcode.com/u/gokulakannan04/)
 
 
 
